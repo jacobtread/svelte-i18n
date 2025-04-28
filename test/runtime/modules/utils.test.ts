@@ -17,7 +17,7 @@ describe('getting client locale', () => {
       hostname: 'example.com',
       hash: '',
       search: '',
-    };
+    } as Location;
   });
 
   it('gets the locale based on the passed hash parameter', () => {
