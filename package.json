@@ -90,7 +90,7 @@
   "dependencies": {
     "cli-color": "^2.0.3",
     "deepmerge": "^4.2.2",
-    "esbuild": "^0.19.2",
+    "esbuild": "^0.25.3",
     "estree-walker": "^2",
     "intl-messageformat": "^10.5.3",
     "sade": "^1.8.1",
